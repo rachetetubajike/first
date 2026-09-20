@@ -28,6 +28,6 @@ if reponse.lower()=="paris":
     print("Felicitation !")
 else:
     print("Mauvaise réponse! ")
-# Test de ma contribution GitHub
+
 
 
