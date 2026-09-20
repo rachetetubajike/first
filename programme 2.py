@@ -20,7 +20,9 @@ D. Lille""")
 print("")
 reponse=input("Tape ta réponse : ")
 
-print(nom,"vous avez repondu ", reponse )
+
+print(nom,"vous venez de  repondre ", reponse )
+
 
 if reponse.lower()=="paris":
     print("Felicitation !")
